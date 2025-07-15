@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: water 1
+  m_Name: totem
   m_Shader: {fileID: -6465566751694194690, guid: c80ae4a430e90bd4ea5b3a6da6ecd019, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
